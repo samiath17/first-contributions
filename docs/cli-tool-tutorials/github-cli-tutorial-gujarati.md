@@ -3,7 +3,7 @@
 [![લાઇસન્સ: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![ઓપન સોર્સ હેલ્પર્સ](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# પ્રથમ ફાળો
+## પ્રથમ ફાળો
 
 | <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | GitHub કમાન્ડ લાઇન ઈન્ટરફેસ (CLI) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
